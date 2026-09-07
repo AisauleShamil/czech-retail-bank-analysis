@@ -16,6 +16,10 @@ An interactive Power BI analytics report designed to evaluate client demographic
 ![Loans by Age Group](images/loans_by_age.png)
 * **Standing Orders by Age Group:** Analysis of client recurring payments and engagement.
 ![Standing Orders by Age Group](images/standing_orders_by_age_group.png)
+* **Card Types by Age Group:** Ownership breakdown across card tiers (e.g., Classic, Junior, Gold) by age group.
+![Card Types by Age Group](images/card_types_by_age_group.png)
+* **Finished Loans Not Repaid:** Risk assessment page identifying defaulted or unpaid completed loan contracts.
+![Finished Loans Not Repaid](images/finished_loans_not_repaid.png)
 
 ## Tech Stack & Skills
 
