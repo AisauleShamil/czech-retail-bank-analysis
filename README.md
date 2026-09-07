@@ -32,8 +32,3 @@ An interactive Power BI analytics report designed to evaluate client demographic
 * **Data Modeling:** Star-Schema Design, Relational Data Mapping
 * **Calculations:** DAX (Data Analysis Expressions)
 * **Visualization:** Custom KPI Cards, Clustered Column Charts, Interactive Matrices, Slicers
-
-## How to View
-
-1. **Download Report:** Download the `.pbix` file from this repository.
-2. **Open in Power BI:** Launch [Power BI Desktop](https://powerbi.microsoft.com/) and open the downloaded file to interact with dynamic filters and visual slicers.
