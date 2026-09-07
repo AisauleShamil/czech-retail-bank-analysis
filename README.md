@@ -11,9 +11,11 @@ An interactive Power BI analytics report designed to evaluate client demographic
 
 * **Cover Page:** Executive summary and project context.
 * **Payment for Statement Targets:** Bar charts, KPI cards, and matrix visuals analyzing regional performance against financial goals.
-* ![Payment for Statement Targets](images/payment_targets.png)
+![Payment for Statement Targets](images/payment_targets.png)
 * **Loans by Age Group (Owners):** In-depth demographic evaluation of bank loan distributions.
+![Loans by Age Group](images/loans_by_age.png)
 * **Standing Orders by Age Group:** Analysis of client recurring payments and engagement.
+![Standing Orders by Age Group](images/standing_orders_by_age_group.png)
 
 ## Tech Stack & Skills
 
