@@ -1,6 +1,5 @@
-# czech-retail-bank-analysis
-An interactive Power BI analytics report designed to evaluate client demographics, loan performance, payment targets, and standing order behavior using the Czech Retail Banking dataset.
 # Czech Retail Bank Analysis — Power BI Report
+An interactive Power BI analytics report designed to evaluate client demographics, loan performance, payment targets, and standing order behavior using the Czech Retail Banking dataset.
 
 [![Download PBIX](https://img.shields.io/badge/Power_BI-Download_.PBIX_File-yellow?logo=powerbi)](https://drive.google.com/file/d/1ndsP346V6_DUuhXbjoO_SWiKEBDeDYuL/view?usp=sharing)
 
